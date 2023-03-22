@@ -1,0 +1,154 @@
+object Form1: TForm1
+  Left = 665
+  Height = 546
+  Top = 150
+  Width = 554
+  Caption = 'Form1'
+  ClientHeight = 546
+  ClientWidth = 554
+  LCLVersion = '2.2.6.0'
+  object Memo1: TMemo
+    Left = 8
+    Height = 224
+    Top = 8
+    Width = 152
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 168
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'SaveToFile'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 168
+    Height = 25
+    Top = 40
+    Width = 75
+    Caption = 'TextFile'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 168
+    Height = 25
+    Top = 97
+    Width = 120
+    Caption = 'ExperimetData'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+  object Label1: TLabel
+    Left = 168
+    Height = 15
+    Top = 128
+    Width = 50
+    Caption = 'ToMemo:'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 168
+    Height = 15
+    Top = 152
+    Width = 74
+    Caption = 'To Memo Dir: '
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 168
+    Height = 15
+    Top = 176
+    Width = 45
+    Caption = 'FileOps: '
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 248
+    Height = 15
+    Top = 128
+    Width = 34
+    Caption = 'Label4'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 248
+    Height = 15
+    Top = 152
+    Width = 34
+    Caption = 'Label5'
+    ParentColor = False
+  end
+  object Label6: TLabel
+    Left = 248
+    Height = 15
+    Top = 176
+    Width = 34
+    Caption = 'Label6'
+    ParentColor = False
+  end
+  object ProgressBar1: TProgressBar
+    Left = 168
+    Height = 20
+    Top = 208
+    Width = 120
+    TabOrder = 4
+  end
+  object Button4: TButton
+    Left = 320
+    Height = 25
+    Top = 8
+    Width = 75
+    Caption = 'Read Data'
+    OnClick = Button4Click
+    TabOrder = 5
+  end
+  object Memo2: TMemo
+    Left = 400
+    Height = 224
+    Top = 8
+    Width = 150
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 6
+  end
+  object Edit1: TEdit
+    Left = 312
+    Height = 23
+    Top = 40
+    Width = 80
+    TabOrder = 7
+    Text = 'data3.txt'
+  end
+  object Chart1: TChart
+    Left = 8
+    Height = 304
+    Top = 240
+    Width = 536
+    AxisList = <    
+      item
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelFont.Orientation = 900
+        Title.LabelBrush.Style = bsClear
+      end    
+      item
+        Alignment = calBottom
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelBrush.Style = bsClear
+      end>
+    Title.Text.Strings = (
+      'TAChart'
+    )
+    Anchors = [akTop, akLeft, akRight, akBottom]
+    object Chart1LineSeries1: TLineSeries
+    end
+  end
+end

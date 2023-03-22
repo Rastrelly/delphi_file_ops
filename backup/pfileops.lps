@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="pfileops.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ufileops.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="42"/>
+        <CursorPos X="10" Y="57"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="23">
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="17" Column="57"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="26" Column="3" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="30" Column="34" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="35" Column="66" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="36" Column="66" TopLine="24"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="37" Column="66" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="39" Column="66" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="67" Column="3" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="68" Column="3" TopLine="38"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="119" Column="35" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="83" Column="56" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="125" Column="36" TopLine="107"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="126" Column="36" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="127" Column="36" TopLine="109"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="129" Column="36" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="165" Column="24" TopLine="133"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="145" Column="15" TopLine="137"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="163" Column="57" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="164" Column="57" TopLine="139"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="61" Column="14" TopLine="40"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="53" Column="11" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="68" Column="20" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="66" Column="31" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="ufileops.pas"/>
+        <Caret Line="55" Column="72" TopLine="42"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
